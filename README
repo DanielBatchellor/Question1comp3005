@@ -7,3 +7,7 @@ fill out the database schema using the database_schema.txt file
 run in intellij or any other IDE
 
 video link: https://youtu.be/WxPmvtDL-pk
+
+how to use:
+when prompted for READ, CREATE, UPDATE, or DELETE write any of those anything else will exit the program
+UPDATE and DELETE will ask for you to input the student_id
