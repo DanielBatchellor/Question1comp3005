@@ -1,0 +1,9 @@
+how to set up:
+
+fill out the url, password, and user variables in the main.java file.
+
+fill out the database schema using the database_schema.txt file
+
+run in intellij or any other IDE
+
+video link: https://youtu.be/WxPmvtDL-pk
